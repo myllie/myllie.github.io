@@ -1,2 +1,3 @@
 title: La BD de ma vie en Islande
 markdown: kramdown
+permalink: /bd/:year/:month/:day/:title
